@@ -1,0 +1,12 @@
+﻿{
+  "repositoryName": "londono652/apisaludo",
+  "pipelineDirectory": "apisaludo",
+  "workspaceDirectory": "apisaludo\\apisaludo",
+  "repositories": {
+    "londono652/apisaludo": {
+      "repositoryPath": "apisaludo\\apisaludo",
+      "lastRunOn": "12/29/2020 12:41:40 -05:00"
+    }
+  },
+  "lastRunOn": "12/29/2020 12:47:50 -05:00"
+}

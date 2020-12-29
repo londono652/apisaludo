@@ -1,0 +1,195 @@
+[2020-12-29 17:40:31Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2020-12-29 17:40:31Z INFO HostContext] Well known directory 'Bin': 'D:\Projects\ApiSaludo\actions-runner\bin'
+[2020-12-29 17:40:31Z INFO HostContext] Well known directory 'Root': 'D:\Projects\ApiSaludo\actions-runner'
+[2020-12-29 17:40:31Z INFO HostContext] Well known config file 'Credentials': 'D:\Projects\ApiSaludo\actions-runner\.credentials'
+[2020-12-29 17:40:31Z INFO Listener] Runner is built for Windows (X64) - win-x64.
+[2020-12-29 17:40:31Z INFO Listener] RuntimeInformation: Microsoft Windows 10.0.18363.
+[2020-12-29 17:40:31Z INFO Listener] Version: 2.275.1
+[2020-12-29 17:40:31Z INFO Listener] Commit: de955418e4e8e0c51546a8495d9236f24edc1321
+[2020-12-29 17:40:31Z INFO Listener] Culture: es-CO
+[2020-12-29 17:40:31Z INFO Listener] UI Culture: es-ES
+[2020-12-29 17:40:31Z INFO HostContext] Well known directory 'Bin': 'D:\Projects\ApiSaludo\actions-runner\bin'
+[2020-12-29 17:40:31Z INFO HostContext] Well known directory 'Root': 'D:\Projects\ApiSaludo\actions-runner'
+[2020-12-29 17:40:31Z INFO Listener] Validating directory permissions for: 'D:\Projects\ApiSaludo\actions-runner'
+[2020-12-29 17:40:31Z INFO CommandLineParser] Parse
+[2020-12-29 17:40:31Z INFO CommandLineParser] Parsing 1 args
+[2020-12-29 17:40:31Z INFO CommandLineParser] parsing argument
+[2020-12-29 17:40:31Z INFO CommandLineParser] HasArgs: False
+[2020-12-29 17:40:31Z INFO CommandLineParser] Adding Command: run
+[2020-12-29 17:40:31Z INFO Listener] Arguments parsed
+[2020-12-29 17:40:31Z INFO Runner] ExecuteCommand
+[2020-12-29 17:40:31Z INFO ConfigurationStore] currentAssemblyLocation: D:\Projects\ApiSaludo\actions-runner\bin\Runner.Listener.dll
+[2020-12-29 17:40:31Z INFO HostContext] Well known directory 'Bin': 'D:\Projects\ApiSaludo\actions-runner\bin'
+[2020-12-29 17:40:31Z INFO ConfigurationStore] binPath: D:\Projects\ApiSaludo\actions-runner\bin
+[2020-12-29 17:40:31Z INFO HostContext] Well known directory 'Bin': 'D:\Projects\ApiSaludo\actions-runner\bin'
+[2020-12-29 17:40:31Z INFO HostContext] Well known directory 'Root': 'D:\Projects\ApiSaludo\actions-runner'
+[2020-12-29 17:40:31Z INFO ConfigurationStore] RootFolder: D:\Projects\ApiSaludo\actions-runner
+[2020-12-29 17:40:31Z INFO HostContext] Well known directory 'Bin': 'D:\Projects\ApiSaludo\actions-runner\bin'
+[2020-12-29 17:40:31Z INFO HostContext] Well known directory 'Root': 'D:\Projects\ApiSaludo\actions-runner'
+[2020-12-29 17:40:31Z INFO HostContext] Well known config file 'Runner': 'D:\Projects\ApiSaludo\actions-runner\.runner'
+[2020-12-29 17:40:31Z INFO ConfigurationStore] ConfigFilePath: D:\Projects\ApiSaludo\actions-runner\.runner
+[2020-12-29 17:40:31Z INFO HostContext] Well known directory 'Bin': 'D:\Projects\ApiSaludo\actions-runner\bin'
+[2020-12-29 17:40:31Z INFO HostContext] Well known directory 'Root': 'D:\Projects\ApiSaludo\actions-runner'
+[2020-12-29 17:40:31Z INFO HostContext] Well known config file 'Credentials': 'D:\Projects\ApiSaludo\actions-runner\.credentials'
+[2020-12-29 17:40:31Z INFO ConfigurationStore] CredFilePath: D:\Projects\ApiSaludo\actions-runner\.credentials
+[2020-12-29 17:40:31Z INFO HostContext] Well known directory 'Bin': 'D:\Projects\ApiSaludo\actions-runner\bin'
+[2020-12-29 17:40:31Z INFO HostContext] Well known directory 'Root': 'D:\Projects\ApiSaludo\actions-runner'
+[2020-12-29 17:40:31Z INFO HostContext] Well known config file 'MigratedCredentials': 'D:\Projects\ApiSaludo\actions-runner\.credentials_migrated'
+[2020-12-29 17:40:31Z INFO ConfigurationStore] MigratedCredFilePath: D:\Projects\ApiSaludo\actions-runner\.credentials_migrated
+[2020-12-29 17:40:31Z INFO HostContext] Well known directory 'Bin': 'D:\Projects\ApiSaludo\actions-runner\bin'
+[2020-12-29 17:40:31Z INFO HostContext] Well known directory 'Root': 'D:\Projects\ApiSaludo\actions-runner'
+[2020-12-29 17:40:31Z INFO HostContext] Well known config file 'Service': 'D:\Projects\ApiSaludo\actions-runner\.service'
+[2020-12-29 17:40:31Z INFO ConfigurationStore] ServiceConfigFilePath: D:\Projects\ApiSaludo\actions-runner\.service
+[2020-12-29 17:40:31Z INFO CommandSettings] Flag 'help': 'False'
+[2020-12-29 17:40:31Z INFO CommandSettings] Flag 'version': 'False'
+[2020-12-29 17:40:31Z INFO CommandSettings] Flag 'commit': 'False'
+[2020-12-29 17:40:31Z INFO CommandSettings] Command 'configure': 'False'
+[2020-12-29 17:40:31Z INFO CommandSettings] Command 'remove': 'False'
+[2020-12-29 17:40:31Z INFO CommandSettings] Command 'warmup': 'False'
+[2020-12-29 17:40:31Z INFO ConfigurationManager] LoadSettings
+[2020-12-29 17:40:31Z INFO ConfigurationStore] IsConfigured()
+[2020-12-29 17:40:31Z INFO ConfigurationStore] IsConfigured: True
+[2020-12-29 17:40:31Z INFO ConfigurationManager] Is configured: True
+[2020-12-29 17:40:31Z INFO ConfigurationStore] Read setting file: 290 chars
+[2020-12-29 17:40:31Z INFO ConfigurationManager] Settings Loaded
+[2020-12-29 17:40:31Z INFO ConfigurationStore] IsServiceConfigured()
+[2020-12-29 17:40:31Z INFO ConfigurationStore] IsServiceConfigured: False
+[2020-12-29 17:40:31Z INFO CommandSettings] Command 'run': 'True'
+[2020-12-29 17:40:31Z INFO ConfigurationStore] IsConfigured()
+[2020-12-29 17:40:31Z INFO ConfigurationStore] IsConfigured: True
+[2020-12-29 17:40:31Z INFO ConfigurationManager] Is configured: True
+[2020-12-29 17:40:31Z INFO Runner] Could not parse the argument value '' for StartupType. Defaulting to Manual
+[2020-12-29 17:40:31Z INFO Runner] Set runner startup type - Manual
+[2020-12-29 17:40:31Z INFO CommandSettings] Flag 'once': 'False'
+[2020-12-29 17:40:31Z INFO Runner] RunAsync
+[2020-12-29 17:40:31Z INFO ConfigurationManager] LoadSettings
+[2020-12-29 17:40:31Z INFO ConfigurationStore] IsConfigured()
+[2020-12-29 17:40:31Z INFO ConfigurationStore] IsConfigured: True
+[2020-12-29 17:40:31Z INFO ConfigurationManager] Is configured: True
+[2020-12-29 17:40:31Z INFO ConfigurationManager] Settings Loaded
+[2020-12-29 17:40:31Z INFO MessageListener] {
+  "AgentId": 2,
+  "AgentName": "londo",
+  "PoolId": 1,
+  "PoolName": "Default",
+  "ServerUrl": "https://pipelines.actions.githubusercontent.com/dXokeCBm0m3zldARaAKNCxCM8lJG4xMl6GUWBfNmqAlNz6adpX",
+  "GitHubUrl": "https://github.com/londono652/apisaludo",
+  "WorkFolder": "_work"
+}
+[2020-12-29 17:40:31Z INFO MessageListener] Loading Credentials
+[2020-12-29 17:40:31Z INFO ConfigurationStore] HasCredentials()
+[2020-12-29 17:40:31Z INFO ConfigurationStore] stored True
+[2020-12-29 17:40:31Z INFO CredentialManager] GetCredentialProvider
+[2020-12-29 17:40:31Z INFO CredentialManager] Creating type OAuth
+[2020-12-29 17:40:31Z INFO CredentialManager] Creating credential type: OAuth
+[2020-12-29 17:40:31Z INFO HostContext] Well known directory 'Bin': 'D:\Projects\ApiSaludo\actions-runner\bin'
+[2020-12-29 17:40:31Z INFO HostContext] Well known directory 'Root': 'D:\Projects\ApiSaludo\actions-runner'
+[2020-12-29 17:40:31Z INFO HostContext] Well known config file 'RSACredentials': 'D:\Projects\ApiSaludo\actions-runner\.credentials_rsaparams'
+[2020-12-29 17:40:31Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file D:\Projects\ApiSaludo\actions-runner\.credentials_rsaparams
+[2020-12-29 17:40:31Z INFO MessageListener] Attempt to create session.
+[2020-12-29 17:40:31Z INFO MessageListener] Connecting to the Runner Server...
+[2020-12-29 17:40:31Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2020-12-29 17:40:31Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2020-12-29 17:40:31Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2020-12-29 17:40:31Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2020-12-29 17:40:31Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2020-12-29 17:40:31Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2020-12-29 17:40:31Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2020-12-29 17:40:31Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2020-12-29 17:40:31Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2020-12-29 17:40:31Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2020-12-29 17:40:32Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2020-12-29 17:40:32Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2020-12-29 17:40:32Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2020-12-29 17:40:32Z INFO MessageListener] VssConnection created
+[2020-12-29 17:40:32Z INFO Terminal] WRITE LINE: 
+[2020-12-29 17:40:32Z INFO Terminal] WRITE LINE: 
+[2020-12-29 17:40:32Z WARN GitHubActionsService] Authentication failed with status code 401.
+Transfer-Encoding: chunked
+WWW-Authenticate: Bearer
+Strict-Transport-Security: max-age=2592000
+X-TFS-ProcessId: 74017a8b-6abb-481f-8a57-0f5992a480db
+ActivityId: 9aa70741-3428-43e7-b03e-a7cd968a50e7
+X-TFS-Session: 8e2e1879-01b7-4382-8a21-4e3988aae03d
+X-VSS-E2EID: 2210449a-1270-43d0-964f-400b2e6f78f4
+X-VSS-SenderDeploymentId: 13a19993-c6bc-326c-afb4-32c5519f46f0
+X-TFS-ServiceError: The+user+%27System%3aPublicAccess%3baaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa%27+is+not+authorized+to+access+this+resource.
+X-VSS-S2STargetService: 0000005A-0000-8888-8000-000000000000/visualstudio.com
+X-MSEdge-Ref: Ref A: 89F978A3BCAD454BB12303716F5C2E52 Ref B: BOG30EDGE0116 Ref C: 2020-12-29T17:40:32Z
+Date: Tue, 29 Dec 2020 17:40:31 GMT
+
+[2020-12-29 17:40:32Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file D:\Projects\ApiSaludo\actions-runner\.credentials_rsaparams
+[2020-12-29 17:40:32Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file D:\Projects\ApiSaludo\actions-runner\.credentials_rsaparams
+[2020-12-29 17:40:34Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2020-12-29 17:40:34Z INFO MessageListener] Session created.
+[2020-12-29 17:40:34Z INFO Terminal] WRITE LINE: 2020-12-29 17:40:34Z: Listening for Jobs
+[2020-12-29 17:40:34Z INFO JobDispatcher] Set runner/worker IPC timeout to 30 seconds.
+[2020-12-29 17:41:38Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file D:\Projects\ApiSaludo\actions-runner\.credentials_rsaparams
+[2020-12-29 17:41:38Z INFO MessageListener] Message '1' received from session 'a3c68732-687c-4bb3-8361-4847838dd498'.
+[2020-12-29 17:41:38Z INFO JobDispatcher] Job request 1 for plan 5191d346-18a8-43a8-bdcb-240643595f24 job ca395085-040a-526b-2ce8-bdc85f692774 received.
+[2020-12-29 17:41:38Z INFO JobDispatcher] Pull OrchestrationId 5191d346-18a8-43a8-bdcb-240643595f24.build.__default from JWT claims
+[2020-12-29 17:41:38Z INFO Terminal] WRITE LINE: 2020-12-29 17:41:38Z: Running job: build
+[2020-12-29 17:41:38Z INFO JobDispatcher] Start renew job request 1 for job ca395085-040a-526b-2ce8-bdc85f692774.
+[2020-12-29 17:41:39Z INFO JobDispatcher] Successfully renew job request 1, job is valid till 29/12/2020 5:51:39 p. m.
+[2020-12-29 17:41:39Z INFO HostContext] Well known directory 'Bin': 'D:\Projects\ApiSaludo\actions-runner\bin'
+[2020-12-29 17:41:39Z INFO ProcessInvokerWrapper] Starting process:
+[2020-12-29 17:41:39Z INFO ProcessInvokerWrapper]   File name: 'D:\Projects\ApiSaludo\actions-runner\bin\Runner.Worker.exe'
+[2020-12-29 17:41:39Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 2140 2152'
+[2020-12-29 17:41:39Z INFO ProcessInvokerWrapper]   Working directory: 'D:\Projects\ApiSaludo\actions-runner\bin'
+[2020-12-29 17:41:39Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2020-12-29 17:41:39Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2020-12-29 17:41:39Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2020-12-29 17:41:39Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2020-12-29 17:41:39Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2020-12-29 17:41:39Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2020-12-29 17:41:39Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2020-12-29 17:41:39Z INFO ProcessInvokerWrapper] Process started with process id 21164, waiting for process exit.
+[2020-12-29 17:41:39Z INFO JobDispatcher] Send job request message to worker for job ca395085-040a-526b-2ce8-bdc85f692774.
+[2020-12-29 17:41:39Z INFO JobNotification] Entering JobStarted Notification
+[2020-12-29 17:41:39Z INFO JobNotification] Entering StartMonitor
+[2020-12-29 17:42:39Z INFO JobDispatcher] Successfully renew job request 1, job is valid till 29/12/2020 5:52:39 p. m.
+[2020-12-29 17:43:29Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2020-12-29 17:43:29Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2020-12-29 17:43:29Z INFO ProcessInvokerWrapper] Finished process 21164 with exit code 102, and elapsed time 00:01:50.5383798.
+[2020-12-29 17:43:29Z INFO JobDispatcher] Worker finished for job ca395085-040a-526b-2ce8-bdc85f692774. Code: 102
+[2020-12-29 17:43:29Z INFO JobDispatcher] finish job request for job ca395085-040a-526b-2ce8-bdc85f692774 with result: Failed
+[2020-12-29 17:43:29Z INFO Terminal] WRITE LINE: 2020-12-29 17:43:29Z: Job build completed with result: Failed
+[2020-12-29 17:43:29Z INFO JobDispatcher] Stop renew job request for job ca395085-040a-526b-2ce8-bdc85f692774.
+[2020-12-29 17:43:29Z INFO JobDispatcher] job renew has been canceled, stop renew job request 1.
+[2020-12-29 17:43:29Z INFO JobNotification] Entering JobCompleted Notification
+[2020-12-29 17:43:29Z INFO JobNotification] Entering EndMonitor
+[2020-12-29 17:47:48Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file D:\Projects\ApiSaludo\actions-runner\.credentials_rsaparams
+[2020-12-29 17:47:48Z INFO MessageListener] Message '2' received from session 'a3c68732-687c-4bb3-8361-4847838dd498'.
+[2020-12-29 17:47:48Z INFO JobDispatcher] Job request 2 for plan 970754da-8878-48f1-9c33-ad2c9d0f9c37 job ca395085-040a-526b-2ce8-bdc85f692774 received.
+[2020-12-29 17:47:48Z INFO JobDispatcher] Pull OrchestrationId 970754da-8878-48f1-9c33-ad2c9d0f9c37.build.__default from JWT claims
+[2020-12-29 17:47:48Z INFO JobDispatcher] Job request ca395085-040a-526b-2ce8-bdc85f692774 processed succeed.
+[2020-12-29 17:47:48Z INFO Terminal] WRITE LINE: 2020-12-29 17:47:48Z: Running job: build
+[2020-12-29 17:47:48Z INFO JobDispatcher] Start renew job request 2 for job ca395085-040a-526b-2ce8-bdc85f692774.
+[2020-12-29 17:47:49Z INFO JobDispatcher] Successfully renew job request 2, job is valid till 29/12/2020 5:57:48 p. m.
+[2020-12-29 17:47:49Z INFO HostContext] Well known directory 'Bin': 'D:\Projects\ApiSaludo\actions-runner\bin'
+[2020-12-29 17:47:49Z INFO ProcessInvokerWrapper] Starting process:
+[2020-12-29 17:47:49Z INFO ProcessInvokerWrapper]   File name: 'D:\Projects\ApiSaludo\actions-runner\bin\Runner.Worker.exe'
+[2020-12-29 17:47:49Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 2380 2392'
+[2020-12-29 17:47:49Z INFO ProcessInvokerWrapper]   Working directory: 'D:\Projects\ApiSaludo\actions-runner\bin'
+[2020-12-29 17:47:49Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2020-12-29 17:47:49Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2020-12-29 17:47:49Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2020-12-29 17:47:49Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2020-12-29 17:47:49Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2020-12-29 17:47:49Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2020-12-29 17:47:49Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2020-12-29 17:47:49Z INFO ProcessInvokerWrapper] Process started with process id 16228, waiting for process exit.
+[2020-12-29 17:47:49Z INFO JobDispatcher] Send job request message to worker for job ca395085-040a-526b-2ce8-bdc85f692774.
+[2020-12-29 17:47:49Z INFO JobNotification] Entering JobStarted Notification
+[2020-12-29 17:47:49Z INFO JobNotification] Entering StartMonitor
+[2020-12-29 17:48:49Z INFO JobDispatcher] Successfully renew job request 2, job is valid till 29/12/2020 5:58:49 p. m.
+[2020-12-29 17:49:37Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2020-12-29 17:49:37Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2020-12-29 17:49:37Z INFO ProcessInvokerWrapper] Finished process 16228 with exit code 102, and elapsed time 00:01:48.6970815.
+[2020-12-29 17:49:37Z INFO JobDispatcher] Worker finished for job ca395085-040a-526b-2ce8-bdc85f692774. Code: 102
+[2020-12-29 17:49:37Z INFO JobDispatcher] finish job request for job ca395085-040a-526b-2ce8-bdc85f692774 with result: Failed
+[2020-12-29 17:49:37Z INFO Terminal] WRITE LINE: 2020-12-29 17:49:37Z: Job build completed with result: Failed
+[2020-12-29 17:49:37Z INFO JobDispatcher] Stop renew job request for job ca395085-040a-526b-2ce8-bdc85f692774.
+[2020-12-29 17:49:37Z INFO JobDispatcher] job renew has been canceled, stop renew job request 2.
+[2020-12-29 17:49:37Z INFO JobNotification] Entering JobCompleted Notification
+[2020-12-29 17:49:37Z INFO JobNotification] Entering EndMonitor

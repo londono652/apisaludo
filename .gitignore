@@ -1,4 +1,4 @@
-/actions-runner/*
+/actions-runner/**
 .gradle
 build/
 !gradle/wrapper/gradle-wrapper.jar

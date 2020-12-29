@@ -1,9 +1,0 @@
-﻿{
-  "agentId": 2,
-  "agentName": "londo",
-  "poolId": 1,
-  "poolName": "Default",
-  "serverUrl": "https://pipelines.actions.githubusercontent.com/dXokeCBm0m3zldARaAKNCxCM8lJG4xMl6GUWBfNmqAlNz6adpX",
-  "gitHubUrl": "https://github.com/londono652/apisaludo",
-  "workFolder": "_work"
-}

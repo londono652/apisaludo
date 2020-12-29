@@ -26,3 +26,8 @@ jobs:
       run: ./gradlew build
     - name: Pruebas unitarias
       run: ./gradlew test
+    - name: Build and analyze
+      run: ./gradlew build jacocoTestReport sonarqube --info
+      env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}

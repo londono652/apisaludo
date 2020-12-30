@@ -1,7 +1,7 @@
 package com.jlondono.apisaludo;
 
+import com.jlondono.controller.RestControllerSaludo;
 import org.junit.jupiter.api.Test;
-import org.junit.platform.commons.util.StringUtils;
 
 public class RestControllerSaludoTest {
 

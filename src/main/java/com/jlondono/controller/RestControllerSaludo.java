@@ -1,4 +1,4 @@
-package com.jlondono.apisaludo;
+package com.jlondono.controller;
 import org.springframework.web.bind.annotation.*;
 
 @RestController

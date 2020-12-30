@@ -38,3 +38,4 @@ jobs:
         sonar_token: ${{ secrets.SONAR_TOKEN }}
         sonar_url: https://sonarcloud.io
         sonar_branch: main
+        

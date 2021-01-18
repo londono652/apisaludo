@@ -5,7 +5,15 @@
 		{
 			"dnsSearchDomains": null,
 			"environmentFiles": null,
-			"logConfiguration": null,
+			"logConfiguration": {
+				"logDriver": "awslogs",
+				"secretOptions": null,
+				"options": {
+					"awslogs-group": "/ecs/saludo",
+					"awslogs-region": "us-west-2",
+					"awslogs-stream-prefix": "ecs"
+				}
+			},
 			"entryPoint": null,
 			"portMappings": [
 				{
@@ -50,41 +58,15 @@
 		}
 	],
 	"placementConstraints": [],
-	"memory": "256",
+	"memory": "512",
 	"taskRoleArn": "arn:aws:iam::815264318294:role/ecsTaskExecutionRole",
-	"compatibilities": [
-		"EC2"
-	],
-	"taskDefinitionArn": "arn:aws:ecs:us-west-2:815264318294:task-definition/ApiSaludo:8",
-	"family": "ApiSaludo",
-	"requiresAttributes": [
-		{
-			"targetId": null,
-			"targetType": null,
-			"value": null,
-			"name": "com.amazonaws.ecs.capability.ecr-auth"
-		},
-		{
-			"targetId": null,
-			"targetType": null,
-			"value": null,
-			"name": "com.amazonaws.ecs.capability.task-iam-role"
-		},
-		{
-			"targetId": null,
-			"targetType": null,
-			"value": null,
-			"name": "ecs.capability.execution-role-ecr-pull"
-		}
-	],
+	"family": "saludo",
 	"pidMode": null,
 	"requiresCompatibilities": [
-		"EC2"
+		"FARGATE"
 	],
-	"networkMode": "bridge",
-	"cpu": "1024",
-	"revision": 8,
-	"status": "ACTIVE",
+	"networkMode": "awsvpc",
+	"cpu": "256",
 	"inferenceAccelerators": null,
 	"proxyConfiguration": null,
 	"volumes": []
